@@ -1,7 +1,7 @@
 # OPTEHIRE - Resume Analysis and Feedback System
 
 ## Overview
-OPTEHIRE is an open-source, AI-driven platform designed to assist job seekers in optimizing their resumes for specific job roles. By leveraging advanced AI models, OPTEHIRE provides position-specific feedback, including a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) and key metrics, to help users craft impactful resumes and discover relevant job opportunities. The system features a Flask-based backend API and a React-based frontend, offering a seamless, user-friendly experience for resume improvement and job matching.
+OPTEHIRE is an AI-driven platform designed to assist job seekers in optimizing their resumes for specific job roles. By leveraging advanced AI models, OPTEHIRE provides position-specific feedback, including a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) and key metrics, to help users craft impactful resumes and discover relevant job opportunities. The system features a Flask-based backend API and a React-based frontend, offering a seamless, user-friendly experience for resume improvement and job matching.
 
 ## Features
 - **Resume Upload**: Users can upload PDF, TXT, or DOCX resume files through an intuitive interface.
