@@ -1,0 +1,24 @@
+# Ignore Python virtual environment files
+venv/
+_pycache_/
+*.pyc
+
+# Ignore Node.js build and dependency files (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/*.log
+
+# Ignore uploaded resumes and reports (backend)
+backend/AI-DIY-Factory/Resume ATS Builder/uploads/
+backend/AI-DIY-Factory/Resume ATS Builder/resume-report/
+backend/AI-DIY-Factory/resume_ai/
+backend/AI-DIY-Factory/Resume ATS Builder/*.log
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+.vscode/
