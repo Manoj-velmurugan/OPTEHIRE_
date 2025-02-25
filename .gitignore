@@ -10,8 +10,6 @@ frontend/build/
 frontend/*.log
 
 # Ignore uploaded resumes and reports (backend)
-backend/AI-DIY-Factory/Resume ATS Builder/uploads/
-backend/AI-DIY-Factory/Resume ATS Builder/resume-report/
 backend/AI-DIY-Factory/resume_ai/
 backend/AI-DIY-Factory/Resume ATS Builder/*.log
 
