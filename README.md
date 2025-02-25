@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # OPTEHIRE - Resume Analysis and Feedback System
 
 ## Overview
@@ -144,3 +145,5 @@ Located at `c:\Users\SEC\Desktop\optehire\frontend\src\pages\`, the frontend inc
 
 
 
+=======
+>>>>>>> Stashed changes
