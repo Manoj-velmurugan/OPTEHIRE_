@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # OPTEHIRE - Resume Analysis and Feedback System
 
 ## Overview
@@ -131,19 +130,3 @@ Located at `c:\Users\SEC\Desktop\optehire\frontend\src\pages\`, the frontend inc
 
 ### Backend AI Process
 ![Backend AI Processing](https://github.com/user-attachments/assets/623d1544-37eb-4fce-8e72-47acc4e882c3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> Stashed changes
