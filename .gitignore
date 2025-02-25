@@ -11,7 +11,7 @@ frontend/*.log
 
 # Ignore uploaded resumes and reports (backend)
 backend/AI-DIY-Factory/resume_ai/
-backend/AI-DIY-Factory/Resume ATS Builder/*.log
+# backend/AI-DIY-Factory/Resume ATS Builder/*.log
 
 # Ignore environment files
 .env
